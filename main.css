@@ -1,0 +1,18 @@
+.input_text{
+  width:80%;
+}
+.search-item-list{
+  display:flex;
+  flex-wrap:wrap;
+}
+.search-item{
+  width:30%;
+  margin-right:10%;
+  margin-top:5%;
+  border:1px solid gray;
+  padding:10px;
+}
+.search-item>img{
+  width:100%;
+  height:200px;
+}
